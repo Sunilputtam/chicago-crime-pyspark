@@ -52,7 +52,7 @@ For the dataset snapshot used in the notebook:
 
 ### Top 10 Crime Types
 
-![Top 10 Chicago crime types](images/top-10-crimes.png)
+![Top 10 Chicago crime types](images/yearwise.png)
 
 ## Disclaimer
 
