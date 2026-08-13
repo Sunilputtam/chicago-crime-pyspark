@@ -40,6 +40,19 @@ For the dataset snapshot used in the notebook:
 - Theft was the most frequently reported crime type.
 - Midnight had the highest recorded crime count by hour.
 - Battery and criminal damage were also among the most common categories.
+## Results
+
+### Year-wise Crime Trend
+
+![Year-wise crime trend](images/crime-trend.png)
+
+### Crimes by Hour
+
+![Crimes by hour](images/crimes-by-hour.png)
+
+### Top 10 Crime Types
+
+![Top 10 Chicago crime types](images/top-10-crimes.png)
 
 ## Disclaimer
 
