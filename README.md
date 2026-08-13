@@ -42,18 +42,17 @@ For the dataset snapshot used in the notebook:
 - Battery and criminal damage were also among the most common categories.
 ## Results
 
+### Loading the Dataset
+
+![Loading Chicago crime data with PySpark](images/data-loading.png)
+
 ### Year-wise Crime Trend
 
-![Year-wise crime trend](images/crime-trend.png)
+![Year-wise Chicago crime trend](images/year-wise-crime-trend.png)
 
-### Crimes by Hour
+### Crimes by Hour of the Day
 
-![Crimes by hour](images/crimes-by-hour.png)
-
-### Top 10 Crime Types
-
-![Top 10 Chicago crime types](images/yearwise.png)
-
+![Chicago crimes by hour of the day](images/crimes-by-hour.png)
 ## Disclaimer
 
 This project is for educational and exploratory analysis. The dataset
